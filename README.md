@@ -17,13 +17,14 @@ Uygulama içeriğinde 8*8 lik bir dizi içerisine rasgele sayılar ekleme eklene
 ## Proje içerisinden resim ve jpeg
 
 ### Schema
-![](resim/1_schema.jpeg)
-![](resim/2_schema.jpeg)
-![](resim/3_schema.jpeg)
-![](resim/4_schema.jpeg)
+![](images/1_schema.jpeg)
+![](images/2_schema.jpeg)
+![](images/3_schema.jpeg)
+![](images/4_schema.jpeg)
 
 ### Uygulama Gif
-![](resim/1_app.gif)
-![](resim/2_app.gif)
-![](resim/3_app.gif)
-![](resim/4_app.gif)
+![](images/1_app.gif)
+![](images/2_app.gif)
+![](images/3_app.gif)
+![](images/4_app.gif)
+![](images/5_app.gif)
